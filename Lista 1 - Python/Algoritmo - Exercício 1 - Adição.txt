@@ -1,0 +1,7 @@
+Algoritmo - Soma de Dois Números
+
+1º Leia atentamente o enunciado
+2º Declare a variável para receber o primeiro valor
+3º Declare a variável para receber o segundo valor
+4º Execute a soma entre esses dois números recebidos
+5º Apresente o resultado da soma entre esses dois números recebidos
