@@ -1,0 +1,4 @@
+nome: Kauê Loviz de Oliveira
+RGM: 30650615
+
+Segue em anexo o Exercicio da Aula 5 - Realizei através do gdbOnline para melhor usuabilidade durante a programação.
